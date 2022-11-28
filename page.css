@@ -21,6 +21,7 @@ a.linn:hover{
     color:white;
 }
 #theRock{
+    user-select:none;
     position:absolute;
     right:1px;
     animation:move 4s linear infinite;
